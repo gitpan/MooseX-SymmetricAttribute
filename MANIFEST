@@ -1,9 +1,11 @@
+Changes
 LICENSE
 MANIFEST
 META.yml
 Makefile.PL
 README
 dist.ini
+lib/MooseX/.SymmetricAttribute.pm.swp
 lib/MooseX/SymmetricAttribute.pm
 t/01_load.t
 t/array.t
