@@ -1,0 +1,14 @@
+---
+abstract: 'Symmetric Moose Attributes -- automatically update inverse attribute'
+author:
+  - 'Gerhard Gossen'
+generated_by: 'Dist::Zilla version 1.100160'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: MooseX-SymmetricAttribute
+requires:
+  ExtUtils::MakeMaker: 6.11
+  MooseX::Role::Parameterized: 0.16
+version: 0.001

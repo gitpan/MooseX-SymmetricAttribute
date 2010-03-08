@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/MooseX/SymmetricAttribute.pm
+t/01_load.t
+t/array.t
+t/basic.t
+t/release-pod-coverage.t
+t/release-pod-syntax.t
+t/set.t
